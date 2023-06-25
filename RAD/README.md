@@ -1,4 +1,4 @@
-# Project Vesta
+# Project RAD
 
 A multiplayer deathmatch FPS made with Unity.
 Scripts written are contained in Assets/Scripts/.
